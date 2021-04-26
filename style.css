@@ -1,11 +1,10 @@
 .first-style {
- color: red;
- font-size: 20px;
- font-style: italic;
+  color: red;
+  font-size: 20px;
+  font-style: italic;
 }
-
 .second-style {
- color: blue;
- font-size: 100px;
- font-style: oblique;
+  color: blue;
+  font-size: 100px;
+  font-style: oblique;
 }
